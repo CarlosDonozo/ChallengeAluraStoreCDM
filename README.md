@@ -3,9 +3,14 @@ Challenge curso Practicando Python para Data Science Challenge Alura Store
 ## 1.El proposito del análisis realizado
     Este analisis tiene por objetivo Enviar una recomendación a el Sr. João a que tienda debería vender y porqué. Todo esto como resultado del analisis, basándose       en los datos presentados.
 ## 2.Estructura del proyecto y organización de los archivos.
+### 2.1 Estructura del proyecto
     - El proyecto parte con la presentacion y visualizacion general de las bases de datos, mediante comandos python y pandas, tales head, type, shape columns entre        otros.
     - Posteriormente se comienza con el calculo de insights utiles para la interpretacion de los mismos, su posterior representacion grafica y conclusiones
     - Finalmente se elabora un informe, a modo de resumen del analisis y presentacion de resultados
+### 2.2 Organizacion de los archivos
+    - Se presenta archivo readme (informacion relevante proyecto)
+    - Se presenta AluraStoreLatamCDM.ipynb (archivo python notebook collab google)
+    - Se presenta Informe.docx (informe final entregable al interesado, incluye recomendaciones, insights, graficos)
 ## 3.Ejemplos de gráficos e insights obtenidos.
 ### 3.1 Insights/graficos
     - Se utilizan graficos de bar, pie, y scatterplot
